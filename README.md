@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xlzhu
 - 👀 I’m interested in Deep Learning and FullStack
-- 🌱 I’m currently learning Go language
+- 🌱 I’m currently learning Rust language
 - 💞️ I’m looking to Technical evangelist
 - 📫 How to reach me: szxlzhu@gmail.com
 
